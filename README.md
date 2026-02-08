@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ssymv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ssymv@esm/index.mjs';
+import ssymv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ssymv@v0.1.1-esm/index.mjs';
 ```
 
 #### ssymv( order, uplo, N, α, A, LDA, x, sx, β, y, sy )
@@ -171,7 +171,7 @@ ssymv.ndarray( 'lower', 3, 1.0, A, 3, 1, 0, x, -1, 2, 1.0, y, -1, 2 );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import ones from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-ones@esm/index.mjs';
-import ssymv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ssymv@esm/index.mjs';
+import ssymv from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ssymv@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
