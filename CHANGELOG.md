@@ -2,9 +2,43 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.1">
+<section class="release" id="unreleased">
 
-## 0.0.1 (2026-02-08)
+## Unreleased (2026-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`920af07`](https://github.com/stdlib-js/stdlib/commit/920af071bafa97f0a933d6c3f0d04e33ad7e0b39) - **bench:** refactor to use string interpolation in `blas/base/ssymv` [(#10456)](https://github.com/stdlib-js/stdlib/pull/10456) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2026-02-08)
 
 <section class="features">
 
