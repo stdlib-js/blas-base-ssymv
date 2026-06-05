@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-11)
+## Unreleased (2026-06-05)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#12548](https://github.com/stdlib-js/stdlib/issues/12548)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`b6dbffd`](https://github.com/stdlib-js/stdlib/commit/b6dbffd7df2988cdc118a6eead40dbf3df7f407e) - **chore:** fix JavaScript lint errors [(#12553)](https://github.com/stdlib-js/stdlib/pull/12553) _(by Rayan Salhab)_
 -   [`920af07`](https://github.com/stdlib-js/stdlib/commit/920af071bafa97f0a933d6c3f0d04e33ad7e0b39) - **bench:** refactor to use string interpolation in `blas/base/ssymv` [(#10456)](https://github.com/stdlib-js/stdlib/pull/10456) _(by Lokesh Ranjan)_
 
 </details>
@@ -24,9 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Lokesh Ranjan
+-   Rayan Salhab
 
 </section>
 
