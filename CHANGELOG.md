@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-24)
+## Unreleased (2026-07-16)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`5244cbc`](https://github.com/stdlib-js/stdlib/commit/5244cbcf3cc30c24275352d587d5d96bb2a0e0fd) - **refactor:** add support for enums in `blas/base/ssymv` [(#13500)](https://github.com/stdlib-js/stdlib/pull/13500) _(by Kaustubh Patange)_
 -   [`b6dbffd`](https://github.com/stdlib-js/stdlib/commit/b6dbffd7df2988cdc118a6eead40dbf3df7f407e) - **chore:** fix JavaScript lint errors [(#12553)](https://github.com/stdlib-js/stdlib/pull/12553) _(by Rayan Salhab)_
 -   [`920af07`](https://github.com/stdlib-js/stdlib/commit/920af071bafa97f0a933d6c3f0d04e33ad7e0b39) - **bench:** refactor to use string interpolation in `blas/base/ssymv` [(#10456)](https://github.com/stdlib-js/stdlib/pull/10456) _(by Lokesh Ranjan)_
 
@@ -37,8 +38,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Kaustubh Patange
 -   Lokesh Ranjan
 -   Rayan Salhab
 
